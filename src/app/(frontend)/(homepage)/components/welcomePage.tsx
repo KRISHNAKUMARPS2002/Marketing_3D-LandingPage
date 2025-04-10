@@ -1,5 +1,4 @@
 "use client";
-import React, { useRef } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Sphere } from "@react-three/drei";
 import { motion } from "framer-motion";
